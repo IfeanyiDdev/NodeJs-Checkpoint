@@ -1,3 +1,5 @@
+//I'll use Nodemailer to send an email to me using a test email created for this task
+
 const nodemailer = require('nodemailer');
 
 var transporter = nodemailer.createTransport({
